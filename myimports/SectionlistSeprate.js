@@ -71,7 +71,8 @@ const DATA = [
     {
         title: 'Electronics',
         data: [
-            { 'name': 'Lenovo ThinkBook', 'image': 'https://picsum.photos/id/1/200/300', 'price': '$200' },
+            { 'name': 'Lenovo ThinkBook', 'image': 'https://picsum.photos/id/2
+            /200/300', 'price': '$200' },
             { 'name': 'HP Pavilion Series', 'image': 'https://picsum.photos/id/2/200/300', 'price': '$150' },
             { 'name': 'Microsoft Surface Book 2 15', 'image': 'https://picsum.photos/id/3/200/300', 'price': '$90' },
         ],
